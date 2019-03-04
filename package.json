@@ -1,0 +1,20 @@
+{
+  "name": "hyper-swipe",
+  "version": "0.0.1",
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "description": "Add MacOS Swipe gestures to Hyper for tab navigation.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbhagen/hyper-swipe.git"
+  },
+  "dependencies": {
+    "color": "0.11.3",
+    "convert-css-color-name-to-hex": "0.1.1",
+    "lodash.throttle": "4.1.1",
+    "lodash.values": "4.3.0"
+  }
+}
